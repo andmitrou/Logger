@@ -8,5 +8,6 @@ When a class varies often, the features of object-oriented programming become ve
 
 ![Bridge Pattern](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bridge_UML_class_diagram.svg/500px-Bridge_UML_class_diagram.svg.png)<br/>
 
-Project Analysis
+### Logger Analysis using Bridge Pattern
+
 
