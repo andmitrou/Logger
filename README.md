@@ -9,6 +9,6 @@ When a class varies often, the features of object-oriented programming become ve
 ![Bridge Pattern](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bridge_UML_class_diagram.svg/500px-Bridge_UML_class_diagram.svg.png)<br/>
 
 ### Logger Analysis using Bridge Pattern
-<b>ConcreteImplementors</b>: The classes that are inside Loggers namespace <b>EventViewerLogger</b>, <b>FileLogger</b>
+<b>ConcreteImplementors</b>: The classes that are inside Loggers namespace <b>EventViewerLogger</b>, <b>FileLogger</b><br/>
 <b>Implementor</b>:The Interface <b>ILog</b> which is a property to the abstract implementor
 
