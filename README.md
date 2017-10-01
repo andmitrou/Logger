@@ -10,4 +10,5 @@ When a class varies often, the features of object-oriented programming become ve
 
 ### Logger Analysis using Bridge Pattern
 <b>ConcreteImplementors</b>: The classes that are inside Loggers namespace <b>EventViewerLogger</b>, <b>FileLogger</b>
+<b>Implementor</b>:The Interface <b>ILog</b> which is a property to the abstract implementor
 
